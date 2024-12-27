@@ -1,17 +1,15 @@
-<h1>Harikrishnan M - AI & ML Enthusiast</h1>
+<h1>Harikrishnan M - Data Scientist & Machine Learning Engineer</h1>
 
-Hello! I'm Hari, an AI and ML enthusiast. 🤓
+Hello! I'm Harikrishnan, a passionate Data Scientist and Machine Learning Engineer with over 2 years of professional experience in the field. 🚀
 
-I am currently immersed in learning data science, focusing specifically on machine learning and realted tools. To enhance my skills and broaden my understanding of these domains, I am actively involved in multiple projects that you can explore in my repositories.
+With a strong foundation in data science and machine learning, I specialize in designing, building, and deploying scalable AI solutions. My expertise includes working on real-world projects that leverage cutting-edge technologies to solve complex problems and drive impactful results.  
 
+As a physics graduate, my analytical mindset and curiosity have fueled my journey into AI and ML. Over the years, I have honed my skills across various domains, including predictive modeling, natural language processing, and computer vision. My work reflects a blend of innovation, problem-solving, and a commitment to continuous learning.  
 
-Being a physics grad, I am filled with enthusiasm when it comes to exploring the field of AI and ML. I am constantly learning and adapting to the latest advancements, eager to embrace the endless possibilities they offer. My goal is to contribute my skills and knowledge to this dynamic domain, and I am excited to be part of its transformative impact.
+I am enthusiastic about collaborating with like-minded professionals to push the boundaries of AI. Whether it's optimizing business processes or unlocking new insights from data, I thrive on challenges that demand both creativity and technical acumen.
 
-If you have any questions or would like to connect, please don't hesitate to reach out. Let's embark on this exciting journey of AI and ML together!
+<h3>Contact: 7025136790</h3>
 
-<h3>Contact:</h3>
+Feel free to connect with me via email at harikrishnanhari.india@gmail.com<
 
-You can contact me via email at Harikrishnanhari.india@gmail.com if you would like to get in touch. I am open to collaborations and opportunities within the field of data science.
-
-<b>Thank you for visiting my GitHub profile! 😊<b>
 
